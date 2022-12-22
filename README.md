@@ -27,3 +27,13 @@ This implementation has a built-in judge system which works as described in the 
 Score = 2540819
 
 Solution files can be found in the `solution
+
+## Folder Structure
+
+- `.idea`: configuration files for the JetBrains PyCharm IDE
+- `Data`: input data provided by Google for the problem
+- `Problem`: folder containing a PDF file describing the problem
+- `Solutions`: output data that represent the final solution
+- `src/code`: source code used to generate the solution
+- `Google Hashcode 2017 Qualification.iml`: configuration file for the JetBrains PyCharm IDE
+- `README.md`: this file containing information about the repository and its contents
